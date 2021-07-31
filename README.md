@@ -1,1 +1,3 @@
-# outsin.github.io
+# sarvtex.github.io
+
+a kind of weird blog i've wanted to do...
